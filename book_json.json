@@ -8,7 +8,7 @@
       "author": "Alina",
       "rating": "5.1",
       "price": "Rs. 299",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "author": "John Doe",
       "rating": "4.8",
       "price": "Rs. 199",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "author": "Jane Smith",
       "rating": "4.5",
       "price": "Rs. 249",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 4,
@@ -35,7 +35,7 @@
       "author": "Sarah Johnson",
       "rating": "4.2",
       "price": "Rs. 159",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 5,
@@ -44,7 +44,7 @@
       "author": "Michael Brown",
       "rating": "4.6",
       "price": "Rs. 189",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 6,
@@ -53,7 +53,7 @@
       "author": "Emily Clark",
       "rating": "4.4",
       "price": "Rs. 219",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "author": "David Wilson",
       "rating": "4.7",
       "price": "Rs. 299",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 8,
@@ -71,7 +71,7 @@
       "author": "Emma Roberts",
       "rating": "4.3",
       "price": "Rs. 179",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 9,
@@ -80,7 +80,7 @@
       "author": "Daniel Thompson",
       "rating": "4.5",
       "price": "Rs. 249",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 10,
@@ -89,7 +89,7 @@
       "author": "Olivia Johnson",
       "rating": "4.1",
       "price": "Rs. 169",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 11,
@@ -98,8 +98,7 @@
       "author": "Samuel Wilson",
       "rating": "4.6",
       "price": "Rs. 279",
-      "image": "image Link"
-    },
+      "image": "https://i.imgur.com/DvpvklR.png"
     {
       "id": 12,
       "book_id": "112",
@@ -107,7 +106,7 @@
       "author": "Sophia Davis",
             "rating": "4.4",
       "price": "Rs. 229",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 13,
@@ -116,7 +115,7 @@
       "author": "Jacob Thompson",
       "rating": "4.7",
       "price": "Rs. 349",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 14,
@@ -125,7 +124,7 @@
       "author": "Isabella Martinez",
       "rating": "4.3",
       "price": "Rs. 199",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 15,
@@ -134,7 +133,7 @@
       "author": "Lucas Johnson",
       "rating": "4.5",
       "price": "Rs. 259",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 16,
@@ -143,7 +142,7 @@
       "author": "Ava Davis",
       "rating": "4.2",
       "price": "Rs. 189",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 17,
@@ -152,7 +151,7 @@
       "author": "Benjamin Wilson",
       "rating": "4.8",
       "price": "Rs. 299",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 18,
@@ -161,7 +160,7 @@
       "author": "Mia Thompson",
       "rating": "4.6",
       "price": "Rs. 279",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 19,
@@ -170,7 +169,7 @@
       "author": "Ethan Davis",
       "rating": "4.4",
       "price": "Rs. 249",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 20,
@@ -179,7 +178,7 @@
       "author": "Sophie Wilson",
       "rating": "4.7",
       "price": "Rs. 329",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 21,
@@ -188,7 +187,7 @@
       "author": "Noah Martinez",
       "rating": "4.3",
       "price": "Rs. 199",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 22,
@@ -197,7 +196,7 @@
       "author": "Liam Thompson",
       "rating": "4.5",
       "price": "Rs. 269",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 23,
@@ -206,7 +205,7 @@
       "author": "Emily Wilson",
       "rating": "4.1",
       "price": "Rs. 239",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 24,
@@ -215,7 +214,7 @@
       "author": "Alexander Johnson",
       "rating": "4.6",
       "price": "Rs. 299",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     },
     {
       "id": 25,
@@ -224,7 +223,7 @@
       "author": "Robert Johnson",
       "rating": "4.2",
       "price": "Rs. 199",
-      "image": "image Link"
+      "image": "https://i.imgur.com/DvpvklR.png"
     }
   ]
 }
